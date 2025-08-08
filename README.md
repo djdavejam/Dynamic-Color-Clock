@@ -1,9 +1,10 @@
 Dynamic Color Clock Project
 
-Overview
+Overview:
 
 This project is a React application that displays a dynamic clock with a gradient background, built using Vite as the build tool.
-Project Structure
+
+Project Structure:
 
 src/: Contains source code.
 App.jsx: Main React component with clock and counter functionality.
@@ -13,7 +14,7 @@ App.css: Styles for the application, including gradient background and animation
 index.html: Entry point of the application.
 package.json: Project configuration and dependencies.
 
-Setup Instructions
+Setup Instructions:
 
 Clone the repository.
 Run npm install to install dependencies.
