@@ -1,5 +1,7 @@
 Dynamic Color Clock Project
+
 Overview
+
 This project is a React application that displays a dynamic clock with a gradient background, built using Vite as the build tool.
 Project Structure
 
